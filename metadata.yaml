@@ -1,0 +1,30 @@
+_repo: The-Bird-and-Insects-Post-Office_31787
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31787-h/images/ill_bookcover.jpg
+creator:
+  author:
+    agent_name: Bloomfield, Robert
+    birthdate: 1766
+    deathdate: 1823
+    gutenberg_agent_id: '2953'
+    url: http://www.gutenberg.org/2009/agents/2953
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Bloomfield
+description: ''
+gutenberg_issued: '2010-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31787'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Birds -- Juvenile fiction'
+- !lcsh 'Insects -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Animal behavior -- Juvenile fiction'
+title: The Bird and Insects' Post Office
+url: http://www.gutenberg.org/ebooks/31787
